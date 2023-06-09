@@ -1,1 +1,1 @@
-{ "tabWidth": 4, "doubleQuote": true }
+{ "tabWidth": 4, "doubleQuote": true, "semi": true }
