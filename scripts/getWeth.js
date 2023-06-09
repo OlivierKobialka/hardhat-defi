@@ -1,6 +1,6 @@
 const { getNamedAccounts } = require("hardhat");
 
-//TODO get ABI + Contract Address
+//TODO get ABI✅ + Contract Address
 
 async function getWeth() {
     const { deployer } = await getNamedAccounts();
